@@ -1,0 +1,1 @@
+console.log("i am going you are going she is going ")
